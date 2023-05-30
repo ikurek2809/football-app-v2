@@ -1,0 +1,13 @@
+.last-five {
+  &__win {
+    background-color: forestgreen;
+  }
+
+  &__draw {
+    background-color: lightgrey;
+  }
+
+  &__loss {
+    background-color: salmon;
+  }
+}

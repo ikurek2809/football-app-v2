@@ -1,0 +1,27 @@
+.footer {
+  padding: 20px;
+  background-color: #232B2B;
+  margin-top: 20px;
+
+  &__link {
+    text-decoration: none;
+    color: cadetblue;
+
+    &:visited {
+      color: cadetblue;
+    }
+
+    &:hover,
+    &:focus {
+      outline: none;
+    }
+  }
+
+  &__logo {
+    color: cadetblue;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "homePage": {
+    "teams": "Teams",
+    "viewAll": "View all",
+    "matches": "Matches"
+  },
+  "teamPage": {
+    "players": "Players",
+    "goalkeepersTitle": "Goalkeepers",
+    "defendersTitle": "Defenders",
+    "midfieldersTitle": "Midfielders",
+    "attackersTitle": "Attackers",
+    "viewAll": "View all"
+  },
+  "teamsPage": {
+    "teams": "Teams"
+  },
+  "standingsTable": {
+    "teamName": "Team Name",
+    "played": "Played",
+    "lastFiveGames": "Last 5 games",
+    "w": "W",
+    "d": "D",
+    "l": "L",
+    "gf": "GF",
+    "ga": "GA",
+    "pts": "PTS",
+    "groups": {
+      "GROUP_A": "Group A",
+      "GROUP_B": "Group B",
+      "GROUP_C": "Group C",
+      "GROUP_D": "Group D",
+      "GROUP_E": "Group E",
+      "GROUP_F": "Group F",
+      "GROUP_G": "Group G",
+      "GROUP_H": "Group H"
+    }
+  },
+  "topScorersList": {
+    "goals": "Goals",
+    "position": "Position",
+    "penalties": "Penalties",
+    "assists": "Assists",
+    "team": "Team",
+    "nationality": "Nationality"
+  },
+  "matchesToolbar": {
+    "title": "Matches",
+    "selectCompetition": "Select Competition",
+    "startDate": "Start date",
+    "endDate": "End date"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "termsAndConditions": "Terms and conditions",
+    "contact": "Contact",
+    "aboutUs": "About us",
+    "faq": "FAQ"
+  },
+  "navigation": {
+    "home": "Home",
+    "teams": "Teams",
+    "matches": "Matches",
+    "login": "Login",
+    "register": "Register"
+  },
+  "card": {
+    "playerCardContent": {
+      "position": "Position",
+      "dateOfBirth": "Date of birth",
+      "nationality": "Nationality"
+    },
+    "teamCardContent": {
+      "venue": "Venue",
+      "address": "Address",
+      "yearFounded": "Year Founded",
+      "website": "Website"
+    }
+  },
+  "competitionPage": {
+    "viewAll": "View all",
+    "matches": "Matches",
+    "scorers": "Scorers"
+  },
+  "loginPage": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "submit": "Submit",
+    "emailRequired": "Email is required",
+    "emailNotValid": "Email is not valid",
+    "passwordRequired": "Password is required"
+  },
+  "registrationPage": {
+    "registration": "Registration",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "repeatPassword": "Repeat Password",
+    "submit": "Submit",
+    "firstNameRequired": "Name is required",
+    "lastNameRequired": "Last name is required",
+    "emailRequired": "Email is required",
+    "emailNotValid": "Email is not valid",
+    "passwordRequired": "Password is required",
+    "passwordsMustMatch": "Passwords must match"
+  },
+  "matchesPage": {
+    "showMore": "Show more"
+  }
+}

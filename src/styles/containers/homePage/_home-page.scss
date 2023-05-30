@@ -1,0 +1,16 @@
+.home-page {
+
+  &__teams-title-area {
+    margin-bottom: 20px;
+  }
+
+  &__matches-title-area {
+    margin-top: 20px;
+  }
+
+  &__button-area {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
